@@ -25,3 +25,12 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.container {
+  width: 100vw;
+  padding: 32px;
+}
+
+.search-input {
+  color: black;
+}
